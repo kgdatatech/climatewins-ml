@@ -30,6 +30,10 @@
 - Overfitting data
 - Analysis was Temperature (mean) focused
 
+## V. Final Results
+
+  [View Full Presentation PDF](https://github.com/kgdatatech/climatewins-ml/blob/main/05%20Sent%20to%20Client/climatewins-presentations-ml.pdf)
+
   [View EDA Results in Tableau Dashboard](https://public.tableau.com/app/profile/keanu.g7625/viz/ClimateWinsHypothesesValidationThroughEDA/HypothesesDashboard)
 
   [View Case Study](https://kgdatatech.github.io/portfolio/case-study.html)
