@@ -1,4 +1,4 @@
-# CF-Achievement 7 Machine Learning Specialization Project Brief: ClimateWins Weather Prediction Data 
+# CF-Achievement 7 | Machine Learning Specialization | Project Brief: ClimateWins Weather Prediction Data 
 **Objective:** Join me on a journey with ClimateWins, a European nonprofit organization dedicated to combating climate change where I'll answer pertinent questions, such as, can machine learning be used to predict whether weather conditions will be favorable on a certain day?
 
 
