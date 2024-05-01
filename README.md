@@ -13,6 +13,12 @@
 3. Historically, what have the maximums and minimums in temperature been?
 4. Can machine learning be used to predict whether weather conditions will be favorable on a certain day? (If so, it could also be possible to predict danger.)
 
+### Key objectives
+1. Identify weather patterns outside the regional norm in Europe.
+2. Determine if unusual weather patterns are increasing.
+3. Generate possibilities for future weather conditions over the next 25 to 50 years based on current trends.
+4. Determine the safest places for people to live in Europe over the next 25 to 50 years.
+
 ## III. Data
 - Open-source data from [European Climate Assessment & Dataset](https://www.ecad.eu/)
 
@@ -33,6 +39,8 @@
 ## V. Final Results
 
   [View Full Presentation PDF](https://github.com/kgdatatech/climatewins-ml/blob/main/05%20Sent%20to%20Client/climatewins-presentations-ml.pdf)
+
+  [View Proposal Strategy PDF](https://github.com/kgdatatech/climatewins-ml/blob/main/05%20Sent%20to%20Client/climatewins-proposal-strategy.pdf)
 
   [View EDA Results in Tableau Dashboard](https://public.tableau.com/app/profile/keanu.g7625/viz/ClimateWinsHypothesesValidationThroughEDA/HypothesesDashboard)
 
